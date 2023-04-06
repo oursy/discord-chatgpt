@@ -1,6 +1,6 @@
 #  Discord ChatGPT Bot
 
-> 在 Discord 中构建 使用 ChatGPT 机器人 
+> 在 Discord 中使用 ChatGPT 机器人 
 
 
 ## 功能
