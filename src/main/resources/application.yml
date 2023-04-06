@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: discord-chatgpt
+discord:
+  enable: false
+  token: ${DISCORD_TOKEN:}
+openai:
+  base-url: ${OPENAI_BASE_URL:https://api.openai.com/}
+  key: ${OPENAI_KEY:}
